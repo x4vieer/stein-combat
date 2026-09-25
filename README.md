@@ -1,6 +1,6 @@
 # Stein Combat
 
-Clans, allies and the nearest enemy, for the **[Stein Loader](https://github.com/x4vieer/stein-labs)** (Minecraft
+Clans, allies and the nearest enemy, for the **[Stein Loader](https://github.com/x4vieer/stein-loader)** (Minecraft
 1.8.9 on Java 25).
 
 **[Download Combat.steinmod](https://github.com/x4vieer/stein-combat/releases/latest/download/Combat.steinmod)** —
